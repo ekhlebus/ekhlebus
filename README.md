@@ -82,7 +82,6 @@ Pathology ML | Foundation models & multi-modal fusion
 
 ## 🤝 Let’s Connect
 
-**Email:** elkhlebus@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/eleonora-khlebus-5b3b1a183/  
 **Looking for:** DS / Bioinformatics / AI-in-Biology roles
 
