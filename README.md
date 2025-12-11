@@ -40,11 +40,11 @@ Let's connect on **LinkedIn:** https://www.linkedin.com/in/eleonora-khlebus-5b3b
 
 **Programming & Analysis:** Python (Pandas, NumPy, SciPy) • R (tidyverse, dplyr, tidyr) • Bash • SQL • Jupyter Notebook • Shell scripting  
 **Bioinformatics & Genomics:** DESeq2 • GATK • PLINK • STAR / BWA • VCFtools • deepTools • BEDTools • samtools  
-**Machine Learning & Modeling:** scikit-learn • PyTorch • TensorFlow
+**Machine Learning & Modeling:** scikit-learn • PyTorch • TensorFlow  
 **Visualization:** R (ggplot2) • Python (Seaborn, Matplotlib, Plotly)  
-**Pathology & High-Plex Imaging:** R (imcRtools, cytomapper) • Visiopharm • MCD Viewer • Phenochart • QuPath
-**Pipelines & Workflow automation:** Snakemake • Nextflow • WDL • HPC • Docker
-**Cloud & Data Services (learning):** AWS • Snowflake • GCP
+**Pathology & High-Plex Imaging:** R (imcRtools, cytomapper) • Visiopharm • MCD Viewer • Phenochart • QuPath  
+**Pipelines & Workflow automation:** Snakemake • Nextflow • WDL • HPC • Docker  
+**Cloud & Data Services (learning):** AWS • Snowflake • GCP  
 **Best Practices:** Git • Reproducible science • CI/CD (in progress)  
 
 ---
