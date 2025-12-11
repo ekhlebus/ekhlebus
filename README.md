@@ -15,11 +15,12 @@ I'm a Data Scientist with a PhD in Bioinformatics and 10+ years of experience wo
 - I build end-to-end pipelines for real-world biological data — from raw sequencing or imaging inputs to automated analysis and reporting  
 - I apply machine learning to meaningful biomedical problems and patient-centered research  
 - I thrive in multidisciplinary teams and enjoy mentoring junior scientists  
-- Open to collaborations at the intersection of biology, data science, and healthcare  
-
-Reach me at: **elkhlebus@gmail.com** or connect on **LinkedIn:** https://www.linkedin.com/in/eleonora-khlebus-5b3b1a183/
+- Open to collaborations at the intersection of biology, data science, and healthcare
 
 My goal: **Turn complex biological data into actionable medical insight.**
+
+Reach me at: **elkhlebus@gmail.com**
+Let's connect on **LinkedIn:** https://www.linkedin.com/in/eleonora-khlebus-5b3b1a183/
 
 **Currently looking for:** DS / Bioinformatics / AI-in-Biology roles📫
 
@@ -41,9 +42,9 @@ My goal: **Turn complex biological data into actionable medical insight.**
 **Bioinformatics & Genomics:** DESeq2 • GATK • PLINK • STAR / BWA • VCFtools • deepTools • BEDTools • samtools  
 **Machine Learning & Modeling:** scikit-learn • PyTorch • TensorFlow
 **Visualization:** R (ggplot2) • Python (Seaborn, Matplotlib, Plotly)  
-**Pathology & High-Plex Imaging:** R (imcRtools, cytomapper) • Visiopharm • MCD Viewer • Phenochart • QuPath  
+**Pathology & High-Plex Imaging:** R (imcRtools, cytomapper) • Visiopharm • MCD Viewer • Phenochart • QuPath
 **Pipelines & Workflow automation:** Snakemake • Nextflow • WDL • HPC • Docker
-**Cloud & Data Services (learning):** AWS • Snowflake • GCP 
+**Cloud & Data Services (learning):** AWS • Snowflake • GCP
 **Best Practices:** Git • Reproducible science • CI/CD (in progress)  
 
 ---
@@ -64,10 +65,10 @@ My goal: **Turn complex biological data into actionable medical insight.**
 
 ## 📚 Publications (selected)
 
-📚 I lead first-author research in omics, computational pathology, and translational biology, with 15+ peer-reviewed publications and 100+ citations across human genetics, cancer and cardiovascular genomics, and tumor microenvironment profiling — see my [Google Scholar](<https://scholar.google.com/citations?user=XdCaQqYAAAAJ&hl=en>).
-**(Papers list in a beautiful way coming soon)**
+📚 I lead first-author research in omics, computational pathology, and translational biology, with 15+ peer-reviewed publications and 100+ citations across human genetics, cancer and cardiovascular genomics, and tumor microenvironment profiling.
+My [Google Scholar](<https://scholar.google.com/citations?user=XdCaQqYAAAAJ&hl=en>).
 
----
+**(Papers list in a beautiful way coming soon)**
 
 <!-- 
 ## 🌱 Currently Exploring
