@@ -16,6 +16,7 @@ I'm a Data Scientist with a PhD in Bioinformatics and 10+ years of experience wo
 - I apply machine learning to meaningful biomedical problems and patient-centered research  
 - I thrive in multidisciplinary teams and enjoy mentoring junior scientists  
 - Open to collaborations at the intersection of biology, data science, and healthcare  
+
 Reach me at: **elkhlebus@gmail.com** or connect on **LinkedIn:** https://www.linkedin.com/in/eleonora-khlebus-5b3b1a183/
 
 My goal: **Turn complex biological data into actionable medical insight.**
