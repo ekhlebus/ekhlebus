@@ -19,7 +19,7 @@ I'm a Data Scientist with a PhD in Bioinformatics and 10+ years of experience wo
 
 My goal: **Turn complex biological data into actionable medical insight.**
 
-Reach me at: **elkhlebus@gmail.com**
+Reach me at: **elkhlebus@gmail.com**  
 Let's connect on **LinkedIn:** https://www.linkedin.com/in/eleonora-khlebus-5b3b1a183/
 
 **Currently looking for:** DS / Bioinformatics / AI-in-Biology roles📫
